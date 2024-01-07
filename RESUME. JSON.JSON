@@ -1,0 +1,29 @@
+{
+    "resume": {
+      "personalInformation": {
+        "firstName": "VINOTH",
+        "lastName": "R",
+        "email": "VINOJITH007@.com",
+        "phone": "6382701151",
+        "address": "456 College Avenue, Townsville, State, 56789"
+      },
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "school": "AMERICAN COLLEGE",
+          "graduationYear": 2023
+        }
+      ],
+      "languages": [
+        {
+          "language": "TAMIL",
+          "proficiency": "Fluent"
+        },
+        {
+          "language": "ENGLISH",
+          "proficiency": "Basic"
+        }
+      ]
+    }
+  }
+
